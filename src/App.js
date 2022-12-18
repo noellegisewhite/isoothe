@@ -9,7 +9,7 @@ function App() {
       <div className='app-contain'>
 
         <section className='app-sect-one'>
-          <img className='app-img' src={Lotus}></img>
+          <img className='app-img' src={Lotus} alt={'isoothe-logo'}></img>
           <h1 className="title">iSoothe</h1>
           <h2 className="app-h2">Stress relief at your fingertips.</h2>
         </section>
