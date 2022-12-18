@@ -10,7 +10,7 @@ const Profile = () => {
             <div className='profile-container'>
                 <nav className='profile-nav'>
                     <i class="fa-solid fa-bars"></i>
-                    <img className='profile-lotus' src={Lotus}></img>
+                    <img className='profile-lotus' src={Lotus} alt={'isoothe-lotus'}></img>
                     <i class="fa-solid fa-gear"></i>
                 </nav>
 
